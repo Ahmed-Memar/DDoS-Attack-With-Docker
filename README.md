@@ -70,7 +70,7 @@ Ce projet est uniquement destiné à des fins éducatives et de test. L'utilisat
 ## Auteur
 Ahmed MEMAR
 
-Email : ahmedmeamar7@gmail.Com
+Email : ahmadmeamar7@gmail.Com
 
 ## Licence
 
